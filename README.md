@@ -1,3 +1,5 @@
+![.NET 5](https://github.com/aimenux/ArrayLookupsBenchDemo/workflows/.NET%205/badge.svg)
+
 # ArrayLookupsBenchDemo
 ```
 Benchmarking various ways for array lookups
