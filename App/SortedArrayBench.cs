@@ -6,6 +6,7 @@ using System.Linq;
 namespace App
 {
     [Config(typeof(BenchConfig))]
+    [BenchmarkCategory(nameof(BenchCategory.Sorted))]
     public class SortedArrayBench
     {
         private int[] array;
