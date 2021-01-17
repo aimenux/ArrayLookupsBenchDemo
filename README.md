@@ -3,7 +3,7 @@
 Benchmarking various ways for array lookups
 ```
 
-In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) library in order to benchmark various ways of sorted/unsorted array lookups :
+In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) library in order to benchmark various ways of array lookups :
 >
 > :one: Using array exists
 >
